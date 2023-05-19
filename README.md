@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Each section of this contains notes on information learned during the prework course for the boot camp. If you open the DevTools console, you will be able to see the Javascript running. It lists the toics learned, and randomly chooses one for you to begin studying.
+Each section of this contains notes on information learned during the prework course for the boot camp. If you open the DevTools console, you will be able to see the Javascript running. It lists the topics learned, and randomly chooses one for you to begin studying.
 
 ## Credits
 
